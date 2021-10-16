@@ -1,5 +1,3 @@
-# nordwebmakers
-
 # Site - Nord Webmakers
 Formation GRETA - Projet N°2 : Site responsive 
 * Langages utilisés :  HTML, CSS, Javascript
