@@ -16,6 +16,7 @@
         margin: 20px 0;
         text-align: justify;
         line-height: 1.5;
+        font-size: 1.3rem;
     }
     
     .carte
@@ -30,7 +31,7 @@
         text-align: start;
         color: #000;
         padding: 10px 30px;
-        font-size: 1.2rem;
+        font-size: 1.4rem;
         line-height: 1.5;
         box-shadow: 5px 5px 10px 5px rgb(172, 165, 165);
         transition: box-shadow 0.3s 0.5s ease-in-out, transform 0.5s 0.5s ease-in-out; 
@@ -40,7 +41,7 @@
     {
         text-align: center;
         color: rgb(30, 144, 255);
-        font-size: 1.5rem;
+        font-size: 1.9rem;
     }
 
     .main-services h1, .main-services h2
